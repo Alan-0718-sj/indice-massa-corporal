@@ -8,7 +8,7 @@ Uma aplicação de console simples e robusta, desenvolvida em Python, para calcu
 
 Clique na imagem abaixo para assistir a uma demonstração completa do projeto no YouTube.
 
-[![Demonstração da Calculadora de IMC](https://img.youtube.com/vi/ID_DO_SEU_VIDEO_AQUI/hqdefault.jpg)](https://www.youtube.com/watch?v=ID_DO_SEU_VIDEO_AQUI)
+[![Demonstração da Calculadora de IMC](https://img.youtube.com/vi/N4yEBnokiIE/hqdefault.jpg)](https://www.youtube.com/watch?v=N4yEBnokiIE)
 
 > **Como usar:**
 > 1.  Faça o upload do seu vídeo para o YouTube.
