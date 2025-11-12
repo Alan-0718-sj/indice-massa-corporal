@@ -52,9 +52,9 @@ Este projeto utiliza apenas bibliotecas padrão do Python, então não há neces
 
 4.  **Execute o script:**
     ```bash
-    python IMC.py
+    python codeIMC.py
     ```
-    *(Substitua `IMC.py` pelo nome do seu arquivo, se for diferente)*
+    *(Substitua `codeIMC.py` pelo nome do seu arquivo, se for diferente)*
 
 5.  **Siga as instruções** que aparecerão no terminal.
 
