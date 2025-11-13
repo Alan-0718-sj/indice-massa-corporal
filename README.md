@@ -10,10 +10,6 @@ Clique na imagem abaixo para assistir a uma demonstração completa do projeto n
 
 [![Demonstração da Calculadora de IMC](https://img.youtube.com/vi/N4yEBnokiIE/hqdefault.jpg)](https://www.youtube.com/watch?v=N4yEBnokiIE)
 
-> **Como usar:**
-> 1.  Faça o upload do seu vídeo para o YouTube.
-> 2.  Pegue o ID do seu vídeo. Por exemplo, se o link for `https://www.youtube.com/watch?v=AbC123XyZ-0`, o ID é `AbC123XyZ-0`.
-> 3.  Substitua `ID_DO_SEU_VIDEO_AQUI` nos dois lugares do link acima pelo ID do seu vídeo.
 
 ---
 
